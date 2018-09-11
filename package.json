@@ -1,5 +1,5 @@
 {
-  "name": "how-to-work-unit-tests-in",
+  "name": "tryToMocha",
   "version": "0.0.1",
   "description": "unit test example for js",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SergeyGuns/how-to-work-unit-tests-in-js.git"
+    "url": "git+https://github.com/Gico735/tryToMocha.git"
   },
   "keywords": [
     "javascript",
@@ -16,13 +16,14 @@
     "test",
     "example"
   ],
-  "author": "Sergey",
+  "author": "Gregory",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SergeyGuns/how-to-work-unit-tests-in-js/issues"
+    "url": "https://github.com/Gico735/tryToMocha/issues"
   },
-  "homepage": "https://github.com/SergeyGuns/how-to-work-unit-tests-in-js#readme",
+  "homepage": "https://github.com/Gico735/tryToMocha#readme",
   "dependencies": {
+    "chai": "^4.1.2",
     "mocha": "^5.2.0"
   }
 }
